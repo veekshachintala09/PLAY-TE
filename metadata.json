@@ -1,0 +1,6 @@
+{
+  "name": "Play Tales",
+  "description": "An AI companion that learns how you learn. Agentic educational game with live animated pets, custom cartoon hero from photo, adaptive quizzes, and endless realm mini-games.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
